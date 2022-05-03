@@ -11,6 +11,7 @@
 		0E58B7D12821E73F0041BD9D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E58B7D02821E73F0041BD9D /* ContentView.swift */; };
 		0E58B7D32821E7440041BD9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B7D22821E7440041BD9D /* Assets.xcassets */; };
 		0E58B7D62821E7440041BD9D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B7D52821E7440041BD9D /* Preview Assets.xcassets */; };
+		0E58B7DD2821E77B0041BD9D /* ScondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E58B7DC2821E77B0041BD9D /* ScondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0E58B7D02821E73F0041BD9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E58B7D22821E7440041BD9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E58B7D52821E7440041BD9D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E58B7DC2821E77B0041BD9D /* ScondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0E58B7CE2821E73F0041BD9D /* Part6App.swift */,
 				0E58B7D02821E73F0041BD9D /* ContentView.swift */,
+				0E58B7DC2821E77B0041BD9D /* ScondView.swift */,
 				0E58B7D22821E7440041BD9D /* Assets.xcassets */,
 				0E58B7D42821E7440041BD9D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E58B7DD2821E77B0041BD9D /* ScondView.swift in Sources */,
 				0E58B7D12821E73F0041BD9D /* ContentView.swift in Sources */,
 				0E58B7CF2821E73F0041BD9D /* Part6App.swift in Sources */,
 			);
