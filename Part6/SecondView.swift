@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ScondView: View {
+struct SecondView: View {
     var body: some View {
         ZStack {
             Color.yellow
@@ -18,6 +18,6 @@ struct ScondView: View {
 
 struct ScondView_Previews: PreviewProvider {
     static var previews: some View {
-        ScondView()
+        SecondView()
     }
 }
